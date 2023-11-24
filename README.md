@@ -10,10 +10,10 @@
 
 # الأندية
 - نادي ريادة الأعمال [![Static Badge](https://img.shields.io/badge/-entrepreneurship-DA552F?logo=producthunt&labelColor=white)](entrepreneurship.md)
-- نادي لتطوير الذكاء الاصطناعي [![Static Badge](https://img.shields.io/badge/-AI--Dev-3793EF?logo=deepnote&labelColor=white)](AI-Dev.md)
+- نادي لتطوير الذكاء الاصطناعي [![Static Badge](https://img.shields.io/badge/-AI--Dev-20BEFF?logo=keras&logoColor=20BEFF&labelColor=white)](AI-Dev.md)
 - نادي المبرمجين [![Static Badge](https://img.shields.io/badge/-programmers-white?logo=visualstudiocode&labelColor=007ACC)](programmers.md)
 - نادي الروبوتيك [![Static Badge](https://img.shields.io/badge/-robotics-red?logo=probot&logoColor=red&labelColor=white)](robotics.md)
-- English Speaking Club
+- English Speaking Club [![Static Badge](https://img.shields.io/badge/-ESC-white?logo=TED&labelColor=E62B1E)](ESC.md)
 > يتم تحديث هذه القائمة
 
 # أنواع الفعاليات
