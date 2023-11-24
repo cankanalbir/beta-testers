@@ -11,7 +11,7 @@
 ## الأندية
 > يتم تحديث هذه القائمة
 - نادي ريادة الأعمال: [![Static Badge](https://img.shields.io/badge/-entrepreneurship-DA552F?logo=producthunt&labelColor=white)](entrepreneurship.md)
-- نادي لتطوير الذكاء الاصطناعي: [![Static Badge](https://img.shields.io/badge/-AI--dev-20BEFF?logo=keras&logoColor=20BEFF&labelColor=white)](AI-Dev.md)
+- نادي لتطوير الذكاء الاصطناعي: [![Static Badge](https://img.shields.io/badge/-AI--dev-20BEFF?logo=keras&logoColor=20BEFF&labelColor=white)](AI-dev.md)
 - نادي المبرمجين: [![Static Badge](https://img.shields.io/badge/-programmers-white?logo=visualstudiocode&labelColor=007ACC)](programmers.md)
 - نادي الروبوتيك: [![Static Badge](https://img.shields.io/badge/-robotics-red?logo=probot&logoColor=red&labelColor=white)](robotics.md)
 - English Speaking Club: [![Static Badge](https://img.shields.io/badge/-ESC-white?logo=TED&labelColor=E62B1E)](ESC.md)
@@ -19,6 +19,7 @@
 ## أنواع الفعاليات
 ### فرييز كامبس
 - تجربة كورس مختلفة وفريدة، تبدأ كالكورس الطبيعي ثمّ تتحوّل إلى تجربة عمليّة تفاعليّة
+- الطلاب يأخذون الكورس عبر منصّتنا الخاصّة: [lms.ibtikar.org.tr]([url](https://lms.ibtikar.org.tr))
 - يتحتّم فيها على الطّالب إكمال محتوى الكورس المطلوب لكي يتمكّن من التّسجيل على ورشة العمل أو اللقاء الفيزيائي المخصّص لهذا الكورس
 - من خلال ذلك يقوم بمراجعة ما تعلّمه في الكورس في اختبار عملي أو فقرة نقاشيّة (على حسب الكورس)، وهذا يتيح فرصة تحويل الكورس الافتراضي إلى تجربة تفاعليّة وبتكاليف قليلة
 - يختلف شكل اللقاء وتوقيته وشروطه على حسب كل كورس، ويتم تحديدها على حسب الحاجة
